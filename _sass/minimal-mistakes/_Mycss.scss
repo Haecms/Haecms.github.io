@@ -1,0 +1,11 @@
+.page__taxonomy-item-tag,
+.page__taxonomy-item-category {
+  padding: 5px;
+  margin-right: 5px;
+  background-color: beige;
+  text-decoration: none;
+  color: black !important;
+}
+.archive__item-title a:hover::before {
+  background-color: rgb(235, 235, 198);
+}

@@ -1,10 +1,11 @@
 ---
 layout: single
 title: "첫 게시글 입니다. 감사합니다"
-categories: coding
-tag: [blog]
+categories: introduce
+tag: [introduce]
 toc: true
-author_profile: false
+toc_sticky: true
+author_profile: true
 sidebar:
   nav: "docs"
 # search: false
